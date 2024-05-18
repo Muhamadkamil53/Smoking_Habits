@@ -1,0 +1,504 @@
+no.,Gender,Age,Place, Smoking Habits,Do you prefer smoking?,Did you affect by smoking?,Cigarettes in a day,Cigarettes Cost 
+1,Female,24,Other cities ,No,No,No,13,1500
+2,Female,26,Sulaimanyah,No,No,Yes,28,2500
+3,Male,24,Sulaimanyah,No,No,Yes,14,2500
+4,Male,24,Sulaimanyah,No,No,No,28,1000
+5,Male,24,Sulaimanyah,No,No,No,34,2000
+6,Female,24,Sulaimanyah,No,No,No,1,2500
+7,Male,24,Other cities ,No,No,Yes,14,1500
+8,Female,24,Sulaimanyah,No,No,Yes,5,3000
+9,Female,24,Sulaimanyah,Yes,No,No,23,1500
+10,Female,24,Sulaimanyah,No,No,No,15,2000
+11,Female,24,Sulaimanyah,No,No,No,10,2000
+12,Male,24,Sulaimanyah,No,No,No,34,2500
+13,Female,24,Sulaimanyah,No,No,No,35,2000
+14,Female,24,Sulaimanyah,No,No,No,21,2000
+15,Female,24,Sulaimanyah,No,No,No,38,1500
+16,Male,24,Sulaimanyah,No,No,No,19,1500
+17,Male,24,Sulaimanyah,Yes,Yes,No,28,3000
+18,Female,24,Sulaimanyah,No,No,No,30,1000
+19,Female,24,Sulaimanyah,No,No,No,16,1000
+25,Male,26,Sulaimanyah,No,No,No,31,1500
+26,Female,24,Sulaimanyah,No,No,No,33,3000
+27,Male,24,Sulaimanyah,Yes,No,No,39,2500
+28,Female,24,Sulaimanyah,No,No,Yes,26,1500
+29,Female,38,Other cities ,Yes,No,No,7,2500
+30,Female,26,Sulaimanyah,Yes,No,No,5,1500
+31,Female,24,Sulaimanyah,No,No,No,23,1500
+32,Female,26,Sulaimanyah,Yes,No,No,5,1500
+33,Female,24,Sulaimanyah,No,No,Yes,19,2500
+34,Male,24,Other cities ,Yes,Yes,No,9,2000
+35,Male,24,Other cities ,No,No,No,17,2000
+36,Male,38,Sulaimanyah,No,Yes,Yes,1,2000
+37,Male,25,Sulaimanyah,No,No,No,40,3000
+38,Female,25,Sulaimanyah,No,No,No,16,2500
+39,Male,38,Sulaimanyah,Yes,No,Yes,33,2000
+40,Female,25,Sulaimanyah,No,No,Yes,15,3000
+41,Male,25,Sulaimanyah,Yes,Yes,No,10,2500
+42,Female,25,Sulaimanyah,No,No,No,29,1000
+43,Female,25,Sulaimanyah,No,No,No,32,1500
+44,Female,25,Sulaimanyah,Yes,Yes,No,38,3000
+45,Female,25,Sulaimanyah,No,No,No,1,2500
+46,Female,25,Other cities ,No,No,No,4,2500
+47,Female,26,Sulaimanyah,No,No,No,6,2500
+48,Female,25,Sulaimanyah,No,No,Yes,16,2500
+49,Female,25,Sulaimanyah,No,No,No,17,1000
+50,Female,26,Sulaimanyah,Yes,No,No,1,3000
+51,Female,25,Sulaimanyah,No,Yes,No,5,2000
+52,Female,25,Sulaimanyah,No,No,Yes,23,2500
+53,Female,26,Sulaimanyah,No,No,Yes,11,2000
+54,Male,26,Sulaimanyah,Yes,No,Yes,19,1500
+55,Female,25,Sulaimanyah,Yes,No,Yes,5,2000
+56,Male,25,Sulaimanyah,Yes,No,Yes,40,2500
+57,Male,25,Sulaimanyah,Yes,Yes,No,11,1000
+58,Female,25,Sulaimanyah,No,No,No,3,2000
+59,Female,25,Sulaimanyah,No,No,No,32,2000
+60,Female,25,Sulaimanyah,No,No,No,13,1000
+61,Female,25,Sulaimanyah,No,No,Yes,11,1000
+62,Female,25,Sulaimanyah,Yes,Yes,No,20,2500
+63,Female,25,Sulaimanyah,No,No,No,25,2500
+64,Female,25,Sulaimanyah,No,No,No,16,1000
+65,Male,25,Sulaimanyah,Yes,No,No,6,1000
+66,Female,25,Sulaimanyah,No,No,No,9,3000
+67,Male,25,Sulaimanyah,Yes,No,No,37,3000
+68,Male,25,Other cities ,Yes,No,Yes,37,2000
+69,Female,25,Other cities ,No,No,No,2,2000
+70,Male,25,Sulaimanyah,Yes,Yes,No,17,2000
+71,Male,26,Sulaimanyah,Yes,No,Yes,4,1000
+72,Female,26,Sulaimanyah,No,No,No,34,1000
+73,Male,25,Other cities ,Yes,No,Yes,12,3000
+74,Female,26,Sulaimanyah,Yes,No,Yes,16,3000
+75,Male,26,Sulaimanyah,Yes,Yes,No,33,3000
+76,Male,26,Sulaimanyah,Yes,Yes,No,37,1500
+77,Male,26,Other cities ,Yes,No,Yes,23,1500
+78,Male,25,Sulaimanyah,Yes,Yes,Yes,32,1500
+79,Male,25,Other cities ,Yes,Yes,Yes,21,2000
+80,Male,26,Sulaimanyah,Yes,No,No,23,1000
+81,Male,26,Sulaimanyah,Yes,Yes,No,23,2000
+82,Male,25,Sulaimanyah,Yes,Yes,No,19,2500
+83,Male,38,Sulaimanyah,Yes,No,Yes,20,2000
+84,Male,26,Sulaimanyah,Yes,No,No,34,3000
+85,Male,26,Sulaimanyah,No,No,No,36,1000
+86,Female,26,Sulaimanyah,No,No,No,21,1000
+87,Male,25,Sulaimanyah,Yes,No,No,14,1500
+88,Female,25,Other cities ,No,No,No,38,3000
+89,Female,26,Other cities ,No,No,No,37,3000
+90,Female,25,Sulaimanyah,Yes,No,No,8,3000
+91,Male,26,Sulaimanyah,Yes,No,No,34,2500
+92,Male,25,Sulaimanyah,No,No,No,1,2500
+93,Female,26,Sulaimanyah,No,No,No,31,2500
+94,Male,26,Sulaimanyah,Yes,No,No,21,2500
+95,Male,26,Sulaimanyah,Yes,Yes,No,26,1000
+96,Female,25,Other cities ,Yes,Yes,Yes,15,2000
+97,Male,38,Sulaimanyah,No,No,Yes,35,2500
+98,Male,26,Sulaimanyah,Yes,No,Yes,19,1500
+99,Female,25,Sulaimanyah,Yes,No,Yes,31,1000
+100,Male,25,Sulaimanyah,Yes,Yes,No,25,3000
+101,Female,26,Other cities ,No,No,No,34,1500
+102,Male,26,Other cities ,Yes,No,No,6,2500
+103,Male,26,Other cities ,Yes,No,No,14,2500
+104,Male,25,Other cities ,No,No,No,6,3000
+105,Male,25,Sulaimanyah,No,No,No,38,1000
+106,Male,26,Other cities ,Yes,Yes,No,33,2000
+107,Male,26,Other cities ,No,No,No,20,3000
+108,Male,25,Sulaimanyah,Yes,No,No,19,2000
+109,Female,25,Sulaimanyah,No,No,No,21,1000
+110,Male,25,Sulaimanyah,Yes,Yes,Yes,1,3000
+111,Male,26,Other cities ,Yes,No,No,25,1500
+112,Male,25,Other cities ,Yes,Yes,Yes,40,1000
+113,Male,25,Other cities ,No,No,No,22,1000
+114,Female,25,Sulaimanyah,No,No,No,22,2000
+115,Male,25,Sulaimanyah,Yes,No,No,30,2000
+116,Male,25,Other cities ,Yes,Yes,Yes,24,3000
+117,Male,38,Sulaimanyah,Yes,Yes,No,21,3000
+118,Male,26,Other cities ,Yes,Yes,Yes,14,2500
+119,Male,26,Other cities ,Yes,Yes,Yes,35,2000
+120,Male,26,Other cities ,Yes,Yes,Yes,9,2500
+121,Male,26,Other cities ,Yes,No,No,26,3000
+122,Male,26,Other cities ,Yes,Yes,Yes,6,2500
+123,Male,26,Other cities ,Yes,No,No,36,3000
+124,Male,26,Other cities ,Yes,No,Yes,19,2500
+125,Male,26,Other cities ,Yes,Yes,Yes,37,3000
+126,Female,26,Sulaimanyah,Yes,No,No,7,2500
+127,Female,24,Sulaimanyah,No,No,Yes,20,3000
+128,Female,24,Sulaimanyah,No,No,No,9,1500
+129,Female,24,Sulaimanyah,No,No,Yes,7,1500
+130,Female,26,Sulaimanyah,No,No,No,40,1000
+131,Male,26,Other cities ,Yes,Yes,No,26,3000
+132,Male,38,Other cities ,Yes,Yes,Yes,37,1000
+133,Male,24,Sulaimanyah,Yes,No,No,17,1500
+134,Male,26,Sulaimanyah,No,No,No,37,1500
+135,Male,38,Other cities ,Yes,No,No,11,2000
+136,Male,38,Other cities ,Yes,Yes,No,39,2000
+137,Male,40,Other cities ,Yes,No,No,36,1500
+138,Female,40,Other cities ,Yes,Yes,Yes,11,1500
+139,Male,27,Other cities ,Yes,No,No,37,2000
+140,Female,24,Sulaimanyah,No,Yes,No,19,1500
+141,Male,27,Other cities ,Yes,Yes,Yes,20,1500
+142,Male,27,Other cities ,Yes,Yes,Yes,22,1000
+143,Female,27,Sulaimanyah,Yes,No,No,26,2500
+144,Male,24,Sulaimanyah,Yes,No,Yes,8,1000
+145,Male,27,Other cities ,Yes,No,Yes,23,2000
+146,Female,40,Other cities ,No,No,Yes,34,2500
+147,Female,27,Other cities ,No,No,Yes,5,2500
+148,Male,40,Other cities ,Yes,Yes,No,7,2000
+149,Male,24,Sulaimanyah,Yes,No,No,29,1000
+150,Male,27,Other cities ,Yes,No,No,37,2500
+151,Male,40,Other cities ,Yes,No,No,5,1500
+152,Male,24,Other cities ,Yes,No,Yes,27,2500
+153,Female,24,Sulaimanyah,Yes,No,Yes,28,1000
+154,Female,24,Other cities ,Yes,Yes,No,29,2000
+155,Female,27,Other cities ,No,No,No,21,3000
+156,Female,27,Sulaimanyah,No,No,Yes,7,1000
+157,Female,27,Sulaimanyah,No,No,Yes,34,1000
+158,Male,40,Other cities ,No,No,No,38,1000
+159,Male,27,Sulaimanyah,Yes,No,No,9,2000
+160,Female,24,Other cities ,No,No,No,10,1500
+161,Female,20,Other cities ,Yes,Yes,No,1,3000
+162,Male,27,Other cities ,No,No,No,18,3000
+163,Female,27,Other cities ,No,No,Yes,15,1000
+164,Male,27,Other cities ,Yes,No,Yes,32,3000
+165,Male,20,Sulaimanyah,No,Yes,Yes,2,1000
+166,Male,20,Sulaimanyah,No,Yes,No,16,1000
+167,Male,27,Sulaimanyah,Yes,No,No,15,2500
+168,Female,27,Other cities ,Yes,No,Yes,9,2000
+169,Female,20,Sulaimanyah,No,No,No,33,1500
+170,Male,27,Other cities ,Yes,Yes,Yes,26,3000
+171,Male,27,Other cities ,Yes,Yes,Yes,18,1000
+172,Male,27,Sulaimanyah,No,No,Yes,40,2500
+173,Male,20,Other cities ,Yes,Yes,Yes,8,1000
+174,Female,27,Other cities ,No,No,Yes,12,1500
+175,Male,20,Other cities ,Yes,Yes,Yes,32,3000
+176,Male,20,Other cities ,Yes,Yes,Yes,35,3000
+177,Male,27,Sulaimanyah,Yes,Yes,Yes,27,1000
+178,Male,27,Other cities ,Yes,Yes,Yes,8,2500
+179,Male,27,Other cities ,Yes,Yes,Yes,28,2500
+180,Female,27,Sulaimanyah,Yes,Yes,Yes,20,1000
+181,Male,40,Other cities ,Yes,No,No,33,3000
+182,Male,20,Sulaimanyah,Yes,No,No,8,2500
+183,Male,27,Sulaimanyah,Yes,Yes,Yes,27,2000
+184,Male,40,Other cities ,Yes,Yes,Yes,26,1500
+185,Female,27,Sulaimanyah,No,No,No,39,1500
+186,Male,20,Other cities ,Yes,No,No,17,3000
+187,Male,27,Other cities ,Yes,No,No,40,2500
+188,Male,27,Other cities ,Yes,No,No,13,2500
+189,Male,27,Other cities ,Yes,No,No,13,1500
+190,Male,27,Sulaimanyah,Yes,No,No,7,1000
+191,Male,20,Other cities ,Yes,No,No,28,3000
+192,Female,20,Sulaimanyah,No,No,Yes,28,2500
+193,Male,20,Other cities ,Yes,Yes,Yes,9,3000
+194,Male,27,Other cities ,Yes,No,No,3,2000
+195,Female,27,Sulaimanyah,Yes,Yes,Yes,12,1500
+196,Male,27,Other cities ,Yes,Yes,Yes,39,3000
+197,Male,27,Other cities ,Yes,Yes,No,32,3000
+198,Male,27,Other cities ,Yes,No,No,15,2000
+199,Male,27,Other cities ,Yes,Yes,Yes,38,2000
+200,Male,27,Sulaimanyah,Yes,No,No,32,2500
+201,Male,27,Other cities ,Yes,Yes,No,34,1500
+202,Male,27,Other cities ,Yes,Yes,Yes,29,3000
+203,Female,27,Sulaimanyah,Yes,Yes,Yes,30,3000
+204,Male,27,Sulaimanyah,Yes,Yes,Yes,27,2000
+205,Female,27,Sulaimanyah,Yes,Yes,Yes,31,1000
+206,Male,27,Other cities ,Yes,No,Yes,14,1500
+207,Female,20,Sulaimanyah,Yes,No,Yes,38,3000
+208,Male,20,Sulaimanyah,Yes,Yes,Yes,17,3000
+209,Male,27,Other cities ,No,No,No,11,2000
+210,Male,27,Other cities ,Yes,Yes,No,16,3000
+211,Female,20,Other cities ,Yes,No,Yes,17,2000
+212,Female,40,Sulaimanyah,Yes,No,Yes,27,2000
+213,Male,20,Other cities ,Yes,No,Yes,6,1500
+214,Male,40,Other cities ,Yes,Yes,Yes,39,3000
+215,Female,20,Other cities ,Yes,No,No,40,2500
+216,Male,40,Other cities ,Yes,No,No,16,1000
+217,Male,20,Sulaimanyah,Yes,No,Yes,29,2000
+218,Female,20,Other cities ,No,No,No,2,2000
+219,Female,20,Sulaimanyah,Yes,Yes,Yes,25,2000
+220,Male,40,Other cities ,Yes,No,No,33,2000
+221,Female,27,Other cities ,Yes,Yes,Yes,1,1500
+222,Female,28,Sulaimanyah,No,No,Yes,40,2000
+223,Male,28,Sulaimanyah,Yes,No,No,37,2000
+224,Female,20,Sulaimanyah,No,No,Yes,34,1500
+225,Female,20,Other cities ,Yes,No,No,21,1000
+226,Male,28,Other cities ,Yes,Yes,Yes,38,3000
+227,Female,20,Sulaimanyah,No,No,Yes,6,2000
+228,Male,28,Other cities ,Yes,No,No,21,2500
+229,Female,20,Sulaimanyah,Yes,No,Yes,3,3000
+230,Female,20,Sulaimanyah,No,No,Yes,31,2000
+231,Male,20,Sulaimanyah,No,No,Yes,33,1000
+232,Female,28,Sulaimanyah,No,No,Yes,21,2500
+233,Female,28,Other cities ,Yes,Yes,Yes,1,2500
+234,Female,28,Sulaimanyah,No,No,No,27,3000
+235,Female,20,Other cities ,Yes,No,Yes,20,2000
+236,Female,28,Sulaimanyah,No,No,Yes,40,1000
+237,Male,47,Other cities ,Yes,Yes,Yes,34,2000
+238,Female,20,Sulaimanyah,No,No,Yes,32,3000
+239,Male,42,Other cities ,Yes,Yes,Yes,8,2500
+240,Male,28,Other cities ,Yes,Yes,Yes,12,1000
+241,Male,28,Other cities ,Yes,Yes,Yes,17,1500
+242,Male,28,Other cities ,No,No,No,38,1000
+243,Male,28,Other cities ,Yes,Yes,Yes,2,1000
+244,Male,28,Sulaimanyah,Yes,No,Yes,20,1500
+245,Male,28,Other cities ,Yes,Yes,Yes,35,2000
+246,Male,42,Other cities ,No,No,No,28,2000
+247,Male,28,Other cities ,No,No,No,39,2500
+248,Male,50,Other cities ,Yes,No,No,29,1000
+249,Female,28,Other cities ,Yes,No,Yes,30,3000
+250,Male,28,Other cities ,Yes,Yes,No,37,2000
+251,Male,20,Other cities ,Yes,Yes,Yes,31,1000
+252,Female,28,Sulaimanyah,No,No,No,38,1500
+253,Male,50,Sulaimanyah,Yes,Yes,No,8,2000
+254,Female,20,Sulaimanyah,Yes,Yes,Yes,20,2500
+255,Male,28,Other cities ,Yes,Yes,Yes,36,1000
+256,Male,28,Other cities ,Yes,No,No,30,3000
+257,Female,20,Sulaimanyah,No,No,No,2,2000
+258,Male,21,Other cities ,No,No,No,22,2000
+259,Male,28,Other cities ,Yes,No,No,7,1500
+260,Female,28,Sulaimanyah,No,Yes,No,35,3000
+261,Male,28,Other cities ,Yes,Yes,Yes,20,2500
+262,Female,28,Sulaimanyah,Yes,No,No,16,1000
+263,Male,28,Sulaimanyah,Yes,Yes,Yes,5,2500
+264,Female,21,Sulaimanyah,No,No,No,8,2000
+265,Male,28,Other cities ,Yes,Yes,Yes,33,2000
+266,Male,29,Other cities ,Yes,Yes,No,19,2000
+267,Male,21,Sulaimanyah,Yes,No,No,35,2000
+268,Female,29,Sulaimanyah,No,Yes,Yes,21,2000
+269,Male,29,Sulaimanyah,Yes,Yes,No,12,2500
+270,Male,21,Sulaimanyah,Yes,Yes,Yes,13,2000
+271,Female,29,Sulaimanyah,No,No,No,33,1000
+272,Male,21,Sulaimanyah,Yes,Yes,No,26,2500
+273,Female,21,Sulaimanyah,No,No,Yes,27,3000
+274,Male,21,Sulaimanyah,Yes,Yes,Yes,17,2000
+275,Female,21,Sulaimanyah,No,No,No,31,2000
+276,Male,21,Sulaimanyah,Yes,Yes,No,3,2500
+277,Male,21,Sulaimanyah,Yes,Yes,No,34,1500
+278,Male,29,Sulaimanyah,Yes,Yes,Yes,12,2500
+279,Female,29,Sulaimanyah,No,No,No,20,2000
+280,Male,21,Sulaimanyah,Yes,No,No,3,2500
+281,Male,21,Sulaimanyah,Yes,No,No,4,1000
+282,Male,21,Sulaimanyah,Yes,Yes,Yes,6,1000
+283,Male,21,Sulaimanyah,Yes,Yes,No,16,2500
+284,Male,21,Sulaimanyah,Yes,No,No,39,1000
+285,Male,21,Sulaimanyah,Yes,No,No,24,2000
+286,Female,29,Sulaimanyah,No,No,Yes,38,3000
+287,Male,29,Sulaimanyah,Yes,No,No,29,2000
+288,Male,21,Sulaimanyah,Yes,Yes,No,36,1500
+289,Male,21,Sulaimanyah,Yes,No,No,20,1500
+290,Male,21,Other cities ,Yes,No,No,29,1500
+291,Male,21,Sulaimanyah,Yes,No,Yes,29,1500
+292,Female,21,Sulaimanyah,No,No,No,22,1000
+293,Male,21,Sulaimanyah,Yes,No,Yes,18,3000
+294,Male,21,Sulaimanyah,Yes,No,Yes,7,1500
+295,Male,21,Sulaimanyah,Yes,No,No,24,1000
+296,Female,21,Sulaimanyah,No,No,No,26,1500
+297,Female,29,Sulaimanyah,No,No,Yes,40,1500
+298,Female,29,Sulaimanyah,No,No,No,16,3000
+299,Male,29,Other cities ,Yes,Yes,No,3,1500
+300,Male,29,Sulaimanyah,Yes,Yes,No,21,1500
+301,Male,21,Other cities ,Yes,No,Yes,12,1500
+302,Female,21,Sulaimanyah,Yes,Yes,No,21,3000
+303,Male,21,Other cities ,No,No,No,18,1500
+304,Male,29,Other cities ,Yes,No,No,13,1000
+305,Male,21,Other cities ,No,No,Yes,15,2500
+306,Male,29,Sulaimanyah,Yes,No,Yes,33,2500
+307,Male,29,Sulaimanyah,Yes,No,Yes,12,2500
+308,Female,29,Sulaimanyah,No,No,No,25,2000
+309,Male,21,Sulaimanyah,No,No,Yes,30,3000
+310,Male,29,Other cities ,No,No,Yes,27,2500
+311,Male,21,Sulaimanyah,Yes,Yes,No,32,1500
+312,Female,29,Other cities ,No,No,Yes,6,3000
+313,Female,21,Other cities ,No,No,No,18,1500
+314,Male,21,Sulaimanyah,Yes,No,No,36,3000
+315,Female,21,Sulaimanyah,No,No,Yes,35,2000
+316,Male,21,Sulaimanyah,Yes,No,No,29,1000
+317,Male,21,Sulaimanyah,No,No,No,14,1500
+318,Male,21,Sulaimanyah,Yes,No,No,5,3000
+319,Male,21,Sulaimanyah,Yes,Yes,No,34,1500
+320,Male,21,Sulaimanyah,No,No,No,36,2000
+321,Male,21,Sulaimanyah,Yes,No,No,7,1500
+322,Male,21,Sulaimanyah,No,No,No,19,2000
+323,Male,21,Sulaimanyah,No,No,No,5,1500
+324,Male,21,Sulaimanyah,No,No,No,14,1500
+325,Male,29,Sulaimanyah,Yes,Yes,No,9,2500
+326,Male,21,Sulaimanyah,Yes,No,No,8,3000
+327,Male,36,Sulaimanyah,Yes,No,Yes,38,2500
+328,Male,36,Sulaimanyah,Yes,Yes,No,33,2000
+329,Male,21,Sulaimanyah,No,No,No,10,1500
+330,Female,21,Sulaimanyah,Yes,Yes,No,38,2500
+331,Male,29,Other cities ,No,No,No,2,1000
+332,Male,29,Other cities ,Yes,Yes,Yes,6,2500
+333,Male,21,Sulaimanyah,No,Yes,Yes,15,2000
+334,Male,21,Other cities ,Yes,No,Yes,38,1500
+335,Male,29,Other cities ,Yes,No,No,31,2000
+336,Female,21,Sulaimanyah,No,No,No,11,2500
+337,Female,29,Other cities ,Yes,No,Yes,29,3000
+338,Male,29,Sulaimanyah,No,No,No,10,2000
+339,Female,29,Sulaimanyah,No,No,No,38,3000
+340,Male,21,Sulaimanyah,Yes,No,No,34,1000
+341,Male,29,Sulaimanyah,No,No,No,24,2000
+342,Male,22,Sulaimanyah,Yes,No,No,26,1000
+343,Male,29,Sulaimanyah,Yes,No,Yes,21,3000
+344,Male,29,Other cities ,No,No,No,35,1500
+345,Male,29,Sulaimanyah,Yes,No,No,39,3000
+346,Male,29,Sulaimanyah,No,No,No,35,1000
+347,Male,29,Other cities ,No,No,No,24,2000
+348,Female,22,Sulaimanyah,No,No,No,20,1500
+349,Male,29,Sulaimanyah,Yes,No,No,38,3000
+350,Male,29,Other cities ,Yes,No,No,5,2500
+351,Male,29,Other cities ,Yes,No,No,20,2500
+352,Male,29,Sulaimanyah,Yes,No,No,30,2500
+353,Male,22,Sulaimanyah,Yes,No,No,34,2500
+354,Male,22,Other cities ,No,No,No,24,2000
+355,Male,29,Other cities ,Yes,No,No,9,1500
+356,Male,22,Sulaimanyah,Yes,No,No,23,2000
+357,Female,22,Sulaimanyah,Yes,No,No,20,1500
+358,Female,29,Sulaimanyah,No,No,Yes,36,2000
+359,Female,22,Other cities ,No,No,No,10,2500
+360,Male,29,Other cities ,Yes,No,Yes,31,2500
+361,Female,22,Sulaimanyah,Yes,Yes,Yes,26,1000
+362,Male,29,Other cities ,Yes,No,No,15,2500
+363,Male,36,Sulaimanyah,No,No,No,40,2000
+364,Male,22,Sulaimanyah,No,No,No,3,2000
+365,Female,29,Sulaimanyah,No,No,Yes,7,1000
+366,Female,29,Sulaimanyah,No,No,No,13,1500
+367,Male,36,Sulaimanyah,Yes,No,No,29,1500
+368,Male,29,Sulaimanyah,No,No,No,13,3000
+369,Male,29,Other cities ,Yes,Yes,No,19,2000
+370,Male,29,Sulaimanyah,Yes,No,No,10,2000
+371,Male,22,Other cities ,Yes,No,Yes,37,3000
+372,Female,22,Other cities ,No,No,No,31,1000
+373,Female,22,Sulaimanyah,Yes,Yes,No,38,1500
+374,Female,29,Sulaimanyah,No,No,No,22,1500
+375,Male,29,Other cities ,No,No,No,7,3000
+376,Female,29,Sulaimanyah,No,No,Yes,40,1500
+377,Male,29,Other cities ,No,No,No,25,2000
+378,Female,29,Sulaimanyah,No,No,No,8,2000
+379,Female,29,Sulaimanyah,Yes,No,No,13,2500
+380,Male,29,Other cities ,No,No,No,28,1500
+381,Female,29,Other cities ,Yes,No,No,15,1500
+382,Female,22,Other cities ,No,No,No,12,2000
+383,Female,22,Sulaimanyah,Yes,No,No,39,3000
+384,Male,29,Sulaimanyah,Yes,No,No,15,3000
+385,Female,22,Sulaimanyah,Yes,No,No,11,3000
+386,Female,22,Other cities ,No,No,No,27,1500
+387,Male,22,Other cities ,No,No,No,24,1000
+388,Female,22,Sulaimanyah,Yes,No,Yes,36,2500
+389,Male,29,Sulaimanyah,Yes,No,Yes,28,1500
+390,Male,22,Sulaimanyah,Yes,Yes,Yes,18,1000
+391,Female,29,Sulaimanyah,No,No,No,33,1000
+392,Male,22,Sulaimanyah,No,No,No,24,2500
+393,Female,29,Other cities ,No,No,Yes,35,1500
+394,Male,29,Sulaimanyah,Yes,No,No,39,1000
+395,Male,29,Sulaimanyah,Yes,No,Yes,36,2000
+396,Male,22,Sulaimanyah,Yes,Yes,No,14,2000
+397,Female,30,Other cities ,Yes,Yes,No,29,3000
+398,Female,30,Sulaimanyah,No,No,No,29,2500
+399,Female,30,Other cities ,No,No,No,27,2000
+400,Female,22,Sulaimanyah,No,No,No,22,1000
+401,Female,30,Sulaimanyah,Yes,No,No,12,3000
+402,Female,22,Sulaimanyah,Yes,No,No,30,1000
+403,Female,22,Other cities ,Yes,No,No,15,1000
+404,Female,30,Sulaimanyah,No,No,No,14,1000
+405,Female,31,Sulaimanyah,No,No,No,29,3000
+406,Male,32,Sulaimanyah,Yes,No,Yes,22,2500
+407,Male,32,Other cities ,Yes,Yes,Yes,13,1000
+408,Female,22,Sulaimanyah,No,No,Yes,22,1000
+409,Male,32,Sulaimanyah,Yes,No,No,40,1500
+410,Male,22,Other cities ,Yes,Yes,No,25,3000
+411,Female,32,Sulaimanyah,No,No,No,12,3000
+412,Male,33,Sulaimanyah,Yes,No,Yes,26,3000
+413,Female,33,Sulaimanyah,No,No,No,21,1500
+414,Male,22,Other cities ,Yes,No,No,39,2500
+415,Male,22,Other cities ,Yes,Yes,No,34,2000
+416,Male,22,Other cities ,No,No,No,20,1500
+417,Female,22,Sulaimanyah,Yes,No,No,2,1000
+418,Male,22,Sulaimanyah,Yes,No,No,13,2500
+419,Male,22,Sulaimanyah,Yes,No,No,4,1500
+420,Female,22,Sulaimanyah,Yes,No,No,36,2000
+421,Male,22,Sulaimanyah,Yes,No,No,26,2000
+422,Female,22,Other cities ,Yes,Yes,Yes,35,3000
+423,Male,22,Sulaimanyah,Yes,Yes,No,12,3000
+424,Female,22,Sulaimanyah,No,No,No,12,2000
+425,Male,22,Sulaimanyah,Yes,No,No,13,2500
+426,Female,22,Sulaimanyah,No,No,No,14,2000
+427,Male,33,Other cities ,Yes,No,Yes,27,3000
+428,Male,22,Other cities ,No,No,No,32,1500
+429,Male,22,Sulaimanyah,No,Yes,No,32,3000
+430,Female,33,Other cities ,No,No,No,20,2500
+431,Female,22,Sulaimanyah,No,Yes,No,13,3000
+432,Female,22,Other cities ,No,No,No,32,3000
+433,Male,33,Sulaimanyah,No,No,No,39,3000
+434,Female,22,Sulaimanyah,Yes,No,No,23,2000
+435,Male,22,Sulaimanyah,Yes,No,Yes,28,3000
+436,Male,22,Sulaimanyah,Yes,No,No,11,3000
+437,Female,33,Sulaimanyah,No,No,No,10,1000
+438,Male,33,Other cities ,Yes,No,Yes,2,2000
+439,Male,22,Sulaimanyah,Yes,Yes,Yes,28,2500
+440,Female,22,Other cities ,No,No,No,4,2000
+441,Female,22,Sulaimanyah,Yes,No,No,14,3000
+442,Female,22,Other cities ,Yes,No,No,33,1500
+443,Male,33,Sulaimanyah,Yes,No,No,28,1000
+444,Male,22,Sulaimanyah,Yes,Yes,No,34,3000
+445,Male,22,Sulaimanyah,No,No,No,2,2500
+446,Female,22,Sulaimanyah,Yes,No,No,37,1500
+447,Male,22,Sulaimanyah,Yes,Yes,No,14,2500
+448,Female,34,Sulaimanyah,No,No,No,32,1500
+449,Female,22,Sulaimanyah,Yes,No,No,24,1500
+450,Male,22,Sulaimanyah,Yes,No,No,38,2500
+451,Male,34,Sulaimanyah,Yes,No,No,15,1500
+452,Male,22,Other cities ,Yes,No,No,38,2000
+453,Female,22,Other cities ,No,Yes,No,38,2000
+454,Male,34,Sulaimanyah,Yes,No,No,12,2000
+455,Male,36,Sulaimanyah,Yes,No,No,4,1500
+456,Male,36,Sulaimanyah,Yes,Yes,No,7,1000
+457,Female,22,Sulaimanyah,Yes,Yes,No,1,2000
+458,Male,22,Sulaimanyah,Yes,Yes,No,9,2500
+459,Male,22,Sulaimanyah,Yes,Yes,Yes,24,2000
+460,Male,22,Sulaimanyah,Yes,Yes,No,9,2500
+461,Female,22,Sulaimanyah,Yes,Yes,No,12,1000
+462,Female,34,Sulaimanyah,No,No,Yes,20,1000
+463,Female,36,Sulaimanyah,Yes,No,Yes,11,2000
+464,Male,22,Sulaimanyah,Yes,No,No,38,1500
+465,Female,22,Sulaimanyah,No,No,No,28,1500
+466,Female,22,Other cities ,No,Yes,No,9,1500
+467,Male,22,Sulaimanyah,No,No,No,14,2000
+468,Female,34,Sulaimanyah,Yes,Yes,Yes,17,3000
+469,Male,22,Sulaimanyah,Yes,Yes,Yes,3,2000
+470,Male,22,Sulaimanyah,Yes,No,No,23,1500
+471,Male,22,Other cities ,No,No,No,6,2500
+472,Male,22,Sulaimanyah,Yes,Yes,No,39,2000
+473,Male,22,Sulaimanyah,No,Yes,No,27,1000
+474,Male,22,Sulaimanyah,No,Yes,Yes,30,3000
+475,Female,22,Sulaimanyah,No,No,No,7,2000
+476,Male,22,Sulaimanyah,Yes,Yes,No,39,2500
+477,Male,22,Sulaimanyah,Yes,Yes,Yes,24,2000
+478,Female,22,Sulaimanyah,No,No,Yes,20,1000
+479,Male,22,Sulaimanyah,No,No,No,3,2000
+480,Male,22,Other cities ,Yes,Yes,Yes,31,1000
+481,Female,34,Sulaimanyah,No,No,No,27,3000
+482,Male,23,Sulaimanyah,Yes,No,No,17,1000
+483,Male,23,Sulaimanyah,No,No,No,27,2000
+484,Male,34,Sulaimanyah,Yes,Yes,No,32,2500
+485,Male,23,Sulaimanyah,Yes,No,No,32,3000
+486,Female,23,Other cities ,No,No,No,5,1500
+487,Male,23,Sulaimanyah,Yes,Yes,Yes,16,1000
+488,Male,34,Sulaimanyah,Yes,No,No,10,1000
+489,Male,23,Sulaimanyah,Yes,Yes,Yes,4,2000
+490,Male,23,Sulaimanyah,Yes,Yes,Yes,4,1000
+491,Male,34,Sulaimanyah,Yes,No,Yes,31,1500
+492,Male,23,Sulaimanyah,No,No,No,17,1500
+493,Male,23,Sulaimanyah,Yes,Yes,Yes,40,1000
+494,Female,23,Sulaimanyah,No,No,No,25,2500
+495,Male,23,Other cities ,Yes,No,No,32,2000
+496,Male,23,Sulaimanyah,Yes,No,No,17,2000
+497,Male,23,Sulaimanyah,Yes,No,No,25,1000
+498,Female,34,Sulaimanyah,No,No,No,17,2500
+499,Male,23,Other cities ,Yes,No,No,21,1000
+500,Male,23,Sulaimanyah,Yes,No,No,28,2000
+501,Male,23,Sulaimanyah,Yes,No,No,5,2000
+502,Male,23,Sulaimanyah,Yes,No,No,19,1000
+503,Female,34,Sulaimanyah,No,No,No,19,2000
+504,Male,34,Sulaimanyah,Yes,No,No,28,1000
+505,Male,23,Sulaimanyah,Yes,Yes,No,24,2500
+506,Male,34,Sulaimanyah,Yes,No,No,30,3000
+507,Female,34,Other cities ,Yes,No,No,10,1000
+,,,,,,,,3000
