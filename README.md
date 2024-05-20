@@ -1,11 +1,11 @@
 # smoking
-Report Summary
+# Report Summary
 Based on the analysis, we can summarize the findings:
 
-Introduction:
+# Introduction:
 This project aims to analyze the smoking habits of individuals using descriptive statistics.
 
-Key Variables:
+# Key Variables:
 
 Cost: Total costs users spend smoking per day.
 Demographics: Age, gender, location.
@@ -16,7 +16,7 @@ Age: Provide a summary of the age distribution.
 Gender: Distribution of male and female smokers.
 Cigarettes Per Day: Average number of cigarettes smoked per day.
 Negative Effects: Percentage of users reporting negative effects.
-Central Tendency:
+# Central Tendency:
 
 Mean, median, and mode for the number of cigarettes smoked per day.
 Analysis by Demographics:
