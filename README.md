@@ -1,4 +1,4 @@
-# smoking
+# Smoking Habits
 # Report Summary
 Based on the analysis, we can summarize the findings:
 
@@ -40,3 +40,6 @@ Diyako adnan
 Rastgo masoud
 
 Danyal dara
+
+![photo_2024-05-20_22-19-19](https://github.com/Muhamadkamil53/Smoking_Habits/assets/125855750/b0009ed6-aae9-4b27-82c8-02554863a109)
+
