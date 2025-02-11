@@ -31,15 +31,5 @@ Variations in smoking habits based on demographics.
 Insights valuable for public health initiatives targeting smoking cessation programs.
 By following this structure, you can generate a comprehensive report on smoking habits using Python and pandas.
 
-# Team members
-
-Muhamad kamil
-
-Diyako adnan
-
-Rastgo masoud
-
-Danyal dara
-
 ![photo_2024-05-20_22-19-19](https://github.com/Muhamadkamil53/Smoking_Habits/assets/125855750/b0009ed6-aae9-4b27-82c8-02554863a109)
 
